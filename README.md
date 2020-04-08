@@ -1,2 +1,2 @@
 # autoencoder
-Проект по Deep Learning School
+Проект Deep Learning School по автоенкодерам.
